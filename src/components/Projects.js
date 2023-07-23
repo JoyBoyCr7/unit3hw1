@@ -14,8 +14,8 @@ const Projects = (props) => {
         <div className="project2">
             <div className="image2"> </div>
             <ul>
-                <li className="title"> </li>
-                <li> My first Project can be found <a href="https://ronards-project2.onrender.com/"> here</a> </li> 
+                <li className="title">Top Rated </li>
+                <li> My second Project can be found <a href="https://ronards-project2.onrender.com/"> here</a> </li> 
                 <li>Link to my<a href="https://github.com/JoyBoyCr7/Ronard-s-Project"> GitHub</a> for this project</li> 
             </ul>
         </div>
