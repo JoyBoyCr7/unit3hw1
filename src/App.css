@@ -89,3 +89,15 @@ li{
   align-items: center;
   
 }
+
+.socials{
+  display: flex;
+  max-width: 400px;
+  padding: 1em;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+img{
+  height: 150px;
+  width: 150px;
+}
